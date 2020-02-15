@@ -1,0 +1,15 @@
+/* style.css */
+body {
+	
+}
+
+.abs {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+img {
+	image-rendering: pixelated;
+}
+
+
